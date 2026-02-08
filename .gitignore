@@ -1,3 +1,4 @@
-models/
+models/*
+!models/.gitkeep
 *.pkl
 data/road.csv
